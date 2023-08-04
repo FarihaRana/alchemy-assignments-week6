@@ -5,7 +5,8 @@ This is an skeleton app that uses the Alchemy SDK rigged to Alchemy's Enhanced A
 ## Set Up
 
 1. Install dependencies by running `npm install`
-2. Start application by running `npm run dev`
+2. Input your infura or alchemy api key in App.js
+3. Start application by running `npm run dev`
 
 ## Challenge
 
