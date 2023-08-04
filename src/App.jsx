@@ -109,7 +109,7 @@ function isENSName(inputStr) {
             ERC-20 Token Indexer
           </Heading>
           <Text fontSize="lg" textAlign="center" mb={4}>
-            Get all the ERC-20 token balances of any Ethereum address
+            Get all the ERC-20 token balances of any Ethereum address or ENS name! 
           </Text>
         </Flex>
       </Center>
